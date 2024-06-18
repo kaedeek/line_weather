@@ -1,0 +1,2 @@
+これは、毎朝7時に天気予報をlineNotifyを通じてlineに通知するコードです、自由に改造したりしてください。
+line Notify tokenに発行したtokenをセットしてください
